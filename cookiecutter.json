@@ -1,0 +1,9 @@
+{
+  "full_name": "Neil Seward",
+  "email": "user@example.com",
+  "github_username": "sealneaward",
+  "bot_name": "slack",
+  "project_name": "slackbot",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Slack bot project."
+}
