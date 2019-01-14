@@ -1,6 +1,5 @@
-===============================
-Cookie Cuttter Slackbot
-===============================
+# Cookie Cutter Slackbot
+
 
 1. Install cookiecutter
 ```
